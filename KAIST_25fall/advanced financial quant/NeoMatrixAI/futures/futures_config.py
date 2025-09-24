@@ -15,7 +15,7 @@ system_config = {
     "symbols": ['BTCUSDT', 'ETHUSDT', 'LTCUSDT', 'TRXUSDT', 'DOTUSDT', 'DOGEUSDT', 'XRPUSDT', 'BCHUSDT', 'ADAUSDT'],
     "leverage": 5,
     "trading_hours": 6,
-    "total_allocation": 0.4, 
+    "total_allocation": 1, 
 }
 
 
